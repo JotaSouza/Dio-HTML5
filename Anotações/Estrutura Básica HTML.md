@@ -1,11 +1,11 @@
 ## Estrutura Básica
 
-**<!DOCTYPE html>**
-**<html>**
-    **<head>**
+<!DOCTYPE html>
+<html>
+    <head>
         <meta>
         <title></title>
-    **</head>**
-    **<body>**
-    **</body>**
-    **</html>**
+    </head>
+    <body>
+    </body>
+</html>
